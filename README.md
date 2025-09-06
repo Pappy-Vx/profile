@@ -9,7 +9,7 @@ I’m passionate about **AI, computer vision, data science, and scalable softwar
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kolapo-kolawole) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/)  
-📫 Reach me at: **kolapokolawole.dev@gmail.com**  
+📫 Reach me at: **kolawolekolapo20@gmail.com**  
 
 ---
 
@@ -42,9 +42,9 @@ I’m passionate about **AI, computer vision, data science, and scalable softwar
 ---
 
 # 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=KolapoKolawole&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=KolapoKolawole&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KolapoKolawole&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=Pappy-Vx&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pappy-Vx&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KPappy-Vx&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ---
 
